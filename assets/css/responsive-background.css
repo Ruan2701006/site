@@ -1,0 +1,49 @@
+@media(min-width: 1900px)
+{
+    body
+    {
+        background-size: 880px;
+    }
+}
+@media(min-width: 1700px)
+{
+    body
+    {
+        background-size: 800px;
+    }
+}
+@media(min-width: 1500px)
+{
+    body
+    {
+        background-size: 750px;
+    }
+}
+@media(min-width: 1740px)
+{
+    body
+    {
+        background-size: 700px;
+    }
+}
+@media(min-width: 1330px)
+{
+    body
+    {
+        background-size: 650px;
+    }
+}
+@media(min-width: 1220px)
+{
+    body
+    {
+        background-size: 600px;
+    }
+}
+@media(min-width: 1100px)
+{
+    body
+    {
+        background-position-x: -100px !important;
+    }
+}
